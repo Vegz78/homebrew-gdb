@@ -12,6 +12,7 @@ See here for further details about setup and signing of GDB on your Mac:
 - https://gist.github.com/mike-myers-tob/9a6013124bad7ff074d3297db2c98247
 - https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k#command-file
 - https://docs.microsoft.com/en-us/cpp/linux/deploy-run-and-debug-your-linux-project (no gdbserver)
+- https://docs.microsoft.com/en-us/cpp/build/configure-cmake-debugging-sessions
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
