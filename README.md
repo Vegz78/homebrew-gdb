@@ -1,6 +1,9 @@
 # [Domq GDB](https://github.com/domq/homebrew-gdb)
 Backported 8.0.1 GDB based on v10.1 working locally on MacOS and for remote debugging on the Mac from Visual Studio on Windows.
 
+Based heavily on https://github.com/domq/homebrew-gdb, here only with updated installation instructions and links.
+Thank you very much for your great work and help, [@domq](https://github.com/domq). Please continue to prefer using [the original](https://github.com/domq/homebrew-gdb).
+
 ## How do I install GDB for MacOS?
 1. [Install Homebrew](https://docs.brew.sh/Installation)
 2. `brew install --force --build-from-source vegz78/gdb/gdb`
